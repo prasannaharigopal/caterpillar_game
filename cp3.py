@@ -5,7 +5,7 @@ import time as ti
 t.bgcolor('skyblue')
 
 caterpillar = t.Turtle()
-caterpillar.shape('circle')
+caterpillar.shape('square')
 caterpillar.speed(0)
 caterpillar.penup()
 caterpillar.hideturtle()
